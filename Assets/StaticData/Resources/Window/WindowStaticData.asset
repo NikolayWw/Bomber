@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2ee3557a7a43b049ae3a387e2a6fc7e, type: 3}
+  m_Name: WindowStaticData
+  m_EditorClassIdentifier: 
+  <UIRootPrefab>k__BackingField: {fileID: 3642029593823791389, guid: 33d6c75874c263c4091ab85d1e983078, type: 3}
+  <HUDPrefab>k__BackingField: {fileID: 2768396178298428218, guid: a8ea5a8399be46a45bb535620701c07a, type: 3}
+  <DrawWindowPrefab>k__BackingField: {fileID: 8172759000944572760, guid: de09c48e22172384ca3c344f78f86e48, type: 3}
+  <GameOverWindowPrefab>k__BackingField: {fileID: 1607533911465855707, guid: 1687a0385b261c24398152cf818382be, type: 3}
+  <StartGameWindowPrefab>k__BackingField: {fileID: 2106891336712343435, guid: 199d847d9c1fc18439f0adc3f961e40a, type: 3}
+  <PlayerStatusFieldPrefab>k__BackingField: {fileID: 2574687465352744725, guid: 2ef5dcfac44cb514f97dbe0135a1e6b5, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3661dd09c8cb1b408ec1b2b58ca1514, type: 3}
+  m_Name: Config Bomb Radius
+  m_EditorClassIdentifier: 
+  _inspectorName: BombRange
+  <Prefab>k__BackingField: {fileID: 3380639186830705312, guid: ea7b1f59e1b14314087ca5136eaceca2, type: 3}
+  <Radius>k__BackingField: 0.5
+  <DelayBeforeExplosion>k__BackingField: 1.5
